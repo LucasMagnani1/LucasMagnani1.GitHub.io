@@ -1,2 +1,5 @@
 # LucasMagnani1.GitHub.io
-Clase Arduino
+
+## Clase Arduino
+
+Primeros pasitos en Arduino
